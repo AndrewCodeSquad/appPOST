@@ -1,0 +1,22 @@
+{
+  "name": "apppostex",
+  "version": "1.0.0",
+  "description": "An example app to demonstrate POST routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCodeSquad/appPOST.git"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCodeSquad/appPOST/issues"
+  },
+  "homepage": "https://github.com/AndrewCodeSquad/appPOST#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
